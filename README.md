@@ -1,0 +1,1 @@
+# Research-LMU-2016-2018--A-New-Algorithm-for-Community-Detection
